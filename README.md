@@ -4,10 +4,10 @@ Welcome to my Software Engineering Learning Notes repository! As a student at AL
 
 ## Table of Contents
 
-- [About Me](#about-me)
-- [Topics Covered](#topics-covered)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
+* [About Me](#about-me)
+* [Topics Covered](#topics-covered)
+* [Getting Started](#getting-started)
+* [Contributing](#contributing)
 
 ## About Me
 
